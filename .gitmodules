@@ -5,4 +5,4 @@
 [submodule "tdtr"]
 	path = tdtr
 	url = https://github.com/nimh-dsst/tdtr
-	branch = *release
+	branch = v0.0.1
